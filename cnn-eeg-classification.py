@@ -6,7 +6,7 @@ import seaborn
 import tensorflow as tf
 from tensorflow.python.keras.callbacks import ModelCheckpoint
 from tensorflow.keras.optimizers import SGD,Adam
-from tensorflow.python.keras.models import Sequential
+from tensorflow.python.keras.models import Sequential 
 from tensorflow.python.keras.layers import SimpleRNN
 from tensorflow.python.keras.layers.core import *
 import matplotlib.pyplot as plt
