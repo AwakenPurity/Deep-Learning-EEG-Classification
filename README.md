@@ -1,5 +1,4 @@
-# Deep-Learning-EEG
-基于深度学习的脑电图（EEG）睡眠状态检测
+# 基于深度学习的睡眠状态检测（EEG Classification）
 
 数据集：Sleep-EDF Database Expanded
 - 链接：https://www.physionet.org/content/sleep-edfx/1.0.0/
